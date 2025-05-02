@@ -7,6 +7,7 @@ I'm a Bioinformatics Graduate Student who has been teaching myself to code for t
 - <https://github.com/AAA-pyqueen/MEF2C-Data>
 - <https://github.com/AAA-pyqueen/STI-Outbreak-Predictive-Model>
 - <https://github.com/AAA-pyqueen/deep-neuroimaging-dl>
+- <https://github.com/AAA-pyqueen/icu-outcomes-ai>
 
 These are all independent projects, so all ideas or resources are welcome! You can also reach me directly via LinkedIn at <https://linkedin.com/in/aquesha.addison>
 <a href="https://buymeacoffee.com/aaapyqueen" target="_blank">
